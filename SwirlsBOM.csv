@@ -1,0 +1,49 @@
+SWIRLS V1.0,,,,,,,
+Index,Qty,Description,Specs,Value,Package,Ref. Mouser,References
+SMT parts,,,,,,,
+"R2, R3, R4, R7, R9, R10, R22, R24",8,"Resistor, 1%",,100,0603,652-CR0603FX-1000ELF,
+R27,1,"Resistor, 1%",,270,0603,652-CR0603FX-2700ELF,
+R8,1,"Resistor, 1%",,2.49k,0603,652-CR0603FX-2491ELF,
+R60,1,"Resistor, 1%",,2.49k,0805,652-CR0805FX-2491ELF,
+"R12, R50, R52",3,"Resistor, 1%",,3.3k,0603,652-CR0603-FX3301ELF,
+"R51, R53",2,"Resistor, 1%",,4.7k,0603,652-CR0603FX-4701ELF,
+"R47, R48, R49, R57, R58",5,"Resistor, 1%",,10k,0603,652-CR0603-FX-1002GLF,
+R34,1,"Resistor, 1%",,20k,0603,652-CR0603FX-2002ELF,
+R37,1,"Resistor, 1%",,27k,0603,652-CR0603FX-2702ELF,
+R20,1,"Resistor, 1%",,30k,0603,652-CR0603FX-3002ELF,
+"R13, R15, R28, R33, R40",5,"Resistor, 1%",,33k,0603,652-CR0603FX-3302ELF,
+R45,1,"Resistor, 1%",,39k,0603,652-CR0603FX-3902ELF,
+"R14, R16, R26, R29, R30, R31, R32, R36, R38, R39, R41, R42, R44, R54, R55, R56",16,"Resistor, 1%",,100k,0603,652-CR0603-FX-1003GLF,
+"R23, R35, R43",3,"Resistor, 1%",,120k,0603,652-CR0603FX-1203ELF,
+"R21, R25",2,"Resistor, 1%",,220k,0603,652-CR0603FX-2203ELF,
+R46,1,"Resistor, 1%",,3.3M,0603,71-CRCW06033M30FKEA,
+"C2, C17",2,"Capacitor, ceramic",,18p,0603,81-GRM185C1H180JA01J,
+"C19, C21, C22, C23",4,"Capacitor, ceramic",">= 16V, <= 2%, C0G",220p,0603,81-GRM185C1H221GA01D,
+"C27, C31, C34",3,"Capacitor, ceramic",">= 50V, <= 2%, C0G",1n,0603,81-GRM1885C1H102FA1J,
+"C28, C29, C32",3,"Capacitor, ceramic",">= 50V, <= 5%",10n,0603,81-GRM18R71H103JA01D,
+"C4, C5, C6, C7, C12, C14, C16, C18, C20, C24, C25, C30, C33",13,"Capacitor, ceramic",>= 16V,100n,0603,81-GRM188R71E104JA1J,
+"C13, C26",2,"Capacitor, ceramic",>= 16V,470n,0603,81-GRM18F51C474ZA01J,
+"C11, C15",2,"Capacitor, ceramic",>= 6.3V,3.3u,0603,81-GRM188R61A335KE5D,
+"C1, C8, C9",3,"Capacitor, electrolytic",>= 25V,22u,Panasonic C,667-EEE-FP1E220AR,EEE-FP1E220AR
+"C3, C10",2,"Capacitor, electrolytic",>= 25V,47u,Panasonic D,667-EEE-FK1V470P,EEEFK1V470P
+"D1, D2",2,1N5819HW diode,,,SOD123,621-1N5819HW-F,Diodes Inc 1N5819HW-7-F
+"IC1, IC3",2,LM1117-3.3V LDO Vreg,,3.3V,SO223,926-LM1117MPX3.3NOPB,National LM1117MPX3.3NOPB
+IC2,1,LM4040 Shunt Vref,"A, B or C grade",2.5V,SOT23,595-LM4040C25IDBZR,Texas Instruments LM4040C25IDBZ
+IC7,1,LM4040 Shunt Vref,"A, B or C grade",10V,SOT23,595-LM4040C10IDBZR,Texas Instruments LM4040C10IDBZ
+IC4,1,DAC8552 dual 16-bit DAC,,,MSOP8,595-DAC8552IDGKT,Texas Instruments DAC8552IDGKT
+"IC5, IC6",2,TL072 dual op-amp,,,TSSOP-8,595-TL072CPWR,TI TL072CPWR
+IC8,1,MCP6002 dual op-amp R2R IO,,,SOIC8,579-MCP6002-I/SN,MCP6002-I/SN
+IC9,1,MCP6004 dual op-amp R2R IO,,,TSSOP-14,579-MCP6004-I/ST,MCP6004-I/ST
+"Q2, Q3, Q4, Q5, Q6",5,NPN transistor MMBT3904,,,SOT23,863-MMBT3904LT1G,On Semi MMBT3904LT1G
+Q1,1,8 MHz quartz,,,HC49,815-ABLS2-8-D4Y-T,Abracon ABLS2-8.000MHZ-D4Y-T
+UC1,1,STM32F103CBT6 MCU,,,LQFP48,511-STM32F103CBT6,ST STM32F103CBT6
+TH parts,,MFG Part No:D6R90 F1 LFS,,,,,
+"J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13",13,Vertical jack connector,,,,,PJ-301-M-12
+"LED1, LED2, LED3",3,"LED, Red/Green, 3 terminals, common K",,,3 terminals,604-WP115VEGW,Kingbright WP115VEGW
+"SW3, SW4",2,Push-button 6.0X2.8MM,,,,612-TL1105SP-250,E-switch TL1105SPF250Q
+,2,Push-button caps,,,,612-1R-BK,E-switch 1RBLK
+R5,1,"10k linear pot, 15mm shaft",,,,,https://www.thonk.co.uk/shop/alpha-9mm-pots/
+"R6, R17, R18, R19",4,10k linear Tall Trimmer,,,,,https://www.thonk.co.uk/shop/ttpots/
+R59,1,"50k Trimmer resistor, 25 turns, top adjust.",,50k,,652-3296W-1-503LF,3296W-1-503LF
+JP1,1,"2x5 male header, 2.54mm pitch",,,,649-67996-410HLF,
+JP2,1,"2x5, 1.27mm pitch male header",,,,649-221111-00010T4LF,
