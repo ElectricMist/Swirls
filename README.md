@@ -11,3 +11,6 @@ Swirls is a 8HP version of Mutable Instruments Tides
 The front panel is double Side
   - One side for Swirls (running the Tides firmware)
   - One side for Lamb (running the Sheep firmware)
+
+
+Please if you are planning to sell some pcbs and panels, contact me first.
