@@ -1,4 +1,4 @@
-PCBs and Front panel Available at Pusherman at a fair price :
+PCBs and Front panels Available at Pusherman at a fair price :
 https://pushermanproductions.com/product/swirls-lamb-8hp-tides-sheep-black-fr4-reversible-panel-pcb-set/
 
 Swirls is a 8HP version of Mutable Instruments Tides
